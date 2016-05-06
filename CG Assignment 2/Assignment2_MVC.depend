@@ -1,0 +1,266 @@
+# depslib dependency file v1.0
+1424465057 source:/home/mayur/Desktop/CG/Assignment2_MVC/inputply.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1426684817 source:/home/mayur/Desktop/CG/Assignment2_MVC/Controller.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"Controller.h"
+	<iostream>
+
+1426682196 /home/mayur/Desktop/CG/Assignment2_MVC/Controller.h
+	"View.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1426628474 /home/mayur/Desktop/CG/Assignment2_MVC/View.h
+	"ReadPlyFile.h"
+
+1426630968 /home/mayur/Desktop/CG/Assignment2_MVC/ReadPlyFile.h
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1426630813 source:/home/mayur/Desktop/CG/Assignment2_MVC/Display.cpp
+	"View.h"
+	"Controller.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+
+1426630976 source:/home/mayur/Desktop/CG/Assignment2_MVC/keyBoard.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"Controller.h"
+	"ReadPlyFile.h"
+	<iostream>
+	<string>
+
+1426682731 source:/home/mayur/Desktop/CG/Assignment2_MVC/main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"Controller.h"
+	"Quaternion.h"
+	"View.h"
+	<iostream>
+	<string.h>
+
+1424466095 source:/home/mayur/Desktop/CG/Assignment2_MVC/ModelPrimitive.cpp
+	"ModelPrimitive.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+
+1424463989 /home/mayur/Desktop/CG/Assignment2_MVC/ModelPrimitive.h
+
+1426684223 source:/home/mayur/Desktop/CG/Assignment2_MVC/PlyReader.cpp
+	"ReadPlyFile.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"View.h"
+	"Quaternion.h"
+
+1426684458 source:/home/mayur/Desktop/CG/Assignment2_MVC/mouse.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"Controller.h"
+	"Quaternion.h"
+	<iostream>
+	<string>
+
+1426685166 /home/mayur/Desktop/CG/Assignment2_MVC/Quaternion.h
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1426685015 source:/home/mayur/Desktop/CG/Assignment2_MVC/Quaternion.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"Quaternion.h"
+	"Controller.h"
+
+1426710732 source:/home/mayur/Desktop/18-3-15/Assignment2_MVC/Controller.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"Controller.h"
+	<iostream>
+
+1426710684 /home/mayur/Desktop/18-3-15/Assignment2_MVC/Controller.h
+	"View.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1426628474 /home/mayur/Desktop/18-3-15/Assignment2_MVC/View.h
+	"ReadPlyFile.h"
+
+1426630968 /home/mayur/Desktop/18-3-15/Assignment2_MVC/ReadPlyFile.h
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1426711600 source:/home/mayur/Desktop/18-3-15/Assignment2_MVC/Display.cpp
+	"View.h"
+	"Controller.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+
+1426685584 source:/home/mayur/Desktop/18-3-15/Assignment2_MVC/keyBoard.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"Controller.h"
+	"ReadPlyFile.h"
+	<iostream>
+	<string>
+
+1426682731 source:/home/mayur/Desktop/18-3-15/Assignment2_MVC/main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"Controller.h"
+	"Quaternion.h"
+	"View.h"
+	<iostream>
+	<string.h>
+
+1426685166 /home/mayur/Desktop/18-3-15/Assignment2_MVC/Quaternion.h
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1424466095 source:/home/mayur/Desktop/18-3-15/Assignment2_MVC/ModelPrimitive.cpp
+	"ModelPrimitive.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+
+1424463989 /home/mayur/Desktop/18-3-15/Assignment2_MVC/ModelPrimitive.h
+
+1426686487 source:/home/mayur/Desktop/18-3-15/Assignment2_MVC/PlyReader.cpp
+	"ReadPlyFile.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"View.h"
+	"Quaternion.h"
+
+1426711227 source:/home/mayur/Desktop/18-3-15/Assignment2_MVC/Quaternion.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"Quaternion.h"
+	"Controller.h"
+	<iostream>
+
+1426710732 source:/media/mayur/College/IIITB/Sem 2/Courses/Computer Graphics/Assignments/Assignment 2/Assignment2_MVC_CompleteWorking/Controller.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"Controller.h"
+	<iostream>
+
+1426710684 /media/mayur/College/IIITB/Sem 2/Courses/Computer Graphics/Assignments/Assignment 2/Assignment2_MVC_CompleteWorking/Controller.h
+	"View.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1426628474 /media/mayur/College/IIITB/Sem 2/Courses/Computer Graphics/Assignments/Assignment 2/Assignment2_MVC_CompleteWorking/View.h
+	"ReadPlyFile.h"
+
+1426630968 /media/mayur/College/IIITB/Sem 2/Courses/Computer Graphics/Assignments/Assignment 2/Assignment2_MVC_CompleteWorking/ReadPlyFile.h
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1426711600 source:/media/mayur/College/IIITB/Sem 2/Courses/Computer Graphics/Assignments/Assignment 2/Assignment2_MVC_CompleteWorking/Display.cpp
+	"View.h"
+	"Controller.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+
+1426685584 source:/media/mayur/College/IIITB/Sem 2/Courses/Computer Graphics/Assignments/Assignment 2/Assignment2_MVC_CompleteWorking/keyBoard.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"Controller.h"
+	"ReadPlyFile.h"
+	<iostream>
+	<string>
+
+1424466095 source:/media/mayur/College/IIITB/Sem 2/Courses/Computer Graphics/Assignments/Assignment 2/Assignment2_MVC_CompleteWorking/ModelPrimitive.cpp
+	"ModelPrimitive.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+
+1424463989 /media/mayur/College/IIITB/Sem 2/Courses/Computer Graphics/Assignments/Assignment 2/Assignment2_MVC_CompleteWorking/ModelPrimitive.h
+
+1426686487 source:/media/mayur/College/IIITB/Sem 2/Courses/Computer Graphics/Assignments/Assignment 2/Assignment2_MVC_CompleteWorking/PlyReader.cpp
+	"ReadPlyFile.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"View.h"
+	"Quaternion.h"
+
+1426685166 /media/mayur/College/IIITB/Sem 2/Courses/Computer Graphics/Assignments/Assignment 2/Assignment2_MVC_CompleteWorking/Quaternion.h
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1426711227 source:/media/mayur/College/IIITB/Sem 2/Courses/Computer Graphics/Assignments/Assignment 2/Assignment2_MVC_CompleteWorking/Quaternion.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"Quaternion.h"
+	"Controller.h"
+	<iostream>
+
+1431082377 source:/media/mayur/College/IIITB/Sem 2/Courses/Computer Graphics/Assignments/Assignment 2/Assignment2_MVC_CompleteWorking/main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"Controller.h"
+	"Quaternion.h"
+	"View.h"
+	<iostream>
+	<string.h>
+

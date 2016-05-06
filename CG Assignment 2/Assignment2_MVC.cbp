@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Assignment2_MVC" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="Model/;View/;Controller/;" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Assignment2_MVC" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Assignment2_MVC" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Linker>
+			<Add option="-lGL -lGLU -lglut" />
+		</Linker>
+		<Unit filename="Controller.cpp">
+			<Option virtualFolder="View/" />
+		</Unit>
+		<Unit filename="Controller.h">
+			<Option virtualFolder="Controller/" />
+		</Unit>
+		<Unit filename="Display.cpp">
+			<Option virtualFolder="View/" />
+		</Unit>
+		<Unit filename="ModelPrimitive.cpp">
+			<Option virtualFolder="Model/" />
+		</Unit>
+		<Unit filename="ModelPrimitive.h">
+			<Option virtualFolder="Model/" />
+		</Unit>
+		<Unit filename="PlyReader.cpp">
+			<Option virtualFolder="Model/" />
+		</Unit>
+		<Unit filename="Quaternion.cpp">
+			<Option virtualFolder="Model/" />
+		</Unit>
+		<Unit filename="Quaternion.h">
+			<Option virtualFolder="Model/" />
+		</Unit>
+		<Unit filename="ReadPlyFile.h">
+			<Option virtualFolder="Model/" />
+		</Unit>
+		<Unit filename="View.h">
+			<Option virtualFolder="View/" />
+		</Unit>
+		<Unit filename="bunny.ply">
+			<Option virtualFolder="Controller/" />
+		</Unit>
+		<Unit filename="keyBoard.cpp">
+			<Option virtualFolder="Controller/" />
+		</Unit>
+		<Unit filename="main.cpp">
+			<Option virtualFolder="Controller/" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
